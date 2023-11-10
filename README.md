@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Sh4ngry
-- 🌱 I’m currently learning computer science
-- 📫 How to reach me riccardo.cararm@gmail.com
+
